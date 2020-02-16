@@ -16,4 +16,4 @@ second, make out folder to save result,
 
 finally just execute 'Road_Sign.exe'.
 
-jan1
+jan2
